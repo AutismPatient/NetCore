@@ -1,0 +1,11 @@
+C:\Users\大坏蛋\source\repos\CoreInit\bin\Debug\netcoreapp3.1\CoreInit.exe
+C:\Users\大坏蛋\source\repos\CoreInit\bin\Debug\netcoreapp3.1\CoreInit.deps.json
+C:\Users\大坏蛋\source\repos\CoreInit\bin\Debug\netcoreapp3.1\CoreInit.runtimeconfig.json
+C:\Users\大坏蛋\source\repos\CoreInit\bin\Debug\netcoreapp3.1\CoreInit.runtimeconfig.dev.json
+C:\Users\大坏蛋\source\repos\CoreInit\bin\Debug\netcoreapp3.1\CoreInit.dll
+C:\Users\大坏蛋\source\repos\CoreInit\bin\Debug\netcoreapp3.1\CoreInit.pdb
+C:\Users\大坏蛋\source\repos\CoreInit\obj\Debug\netcoreapp3.1\CoreInit.csprojAssemblyReference.cache
+C:\Users\大坏蛋\source\repos\CoreInit\obj\Debug\netcoreapp3.1\CoreInit.AssemblyInfoInputs.cache
+C:\Users\大坏蛋\source\repos\CoreInit\obj\Debug\netcoreapp3.1\CoreInit.AssemblyInfo.cs
+C:\Users\大坏蛋\source\repos\CoreInit\obj\Debug\netcoreapp3.1\CoreInit.dll
+C:\Users\大坏蛋\source\repos\CoreInit\obj\Debug\netcoreapp3.1\CoreInit.pdb
